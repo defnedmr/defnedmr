@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @defnedmr
 - 👀 I’m interested in meeting with new people!
-- 🌱 I’m currently learning java and engineering!
 - 💞️ I’m looking to collaborate on any project i can, please
   reach out to me so we can talk.
 - 📫 How to reach me: from my linkedIn profile. 
