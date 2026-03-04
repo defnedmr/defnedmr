@@ -1,0 +1,48 @@
+{
+    "manifest_version": 3,
+    "name": "Don't Phish Me 26",
+    "version": "1.0.0",
+    "description": "Advanced real-time phishing defense analyzing Domain Age, SSL, and malicious JS.",
+    "permissions": [
+        "activeTab",
+        "storage",
+        "scripting",
+        "alarms",
+        "tabs"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "How did you phish me?"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "css": [
+                "inject.css"
+            ],
+            "run_at": "document_start",
+            "all_frames": true
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "inject.js"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ]
+}
