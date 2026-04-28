@@ -1,21 +1,4 @@
-<div align="center">
-  
-# 👋 Merhaba, Ben Defne!
-
-### 💻 Yazılım Geliştirici | 🌟 Açık Kaynak Tutkunu | 🚀 Sürekli Öğrenen
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](BURAYA_LİNKEDIN_LİNKİNİ_EKLE)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:BURAYA_EMAİL_ADRESİNİ_EKLE)
-![Profile Views](https://komarev.com/ghpvc/?username=defnedmr&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
 ## 🚀 Hakkımda
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 Merhaba! Ben Defne, teknoloji ve yazılım geliştirme tutkusuyla dolu bir geliştiriciyim. Yeni insanlarla tanışmayı, farklı projeler üzerinde işbirliği yapmayı ve sürekli öğrenmeyi seven biriyim.
 
 - 🔭 Şu anda üzerinde çalıştığım projeler: CloverNote (yakında yayınlanacak!)
@@ -31,7 +14,6 @@ Merhaba! Ben Defne, teknoloji ve yazılım geliştirme tutkusuyla dolu bir geli�
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,8 +25,6 @@ Merhaba! Ben Defne, teknoloji ve yazılım geliştirme tutkusuyla dolu bir geli�
 
 ### 🔧 Backend & Veritabanları
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -68,13 +48,6 @@ Merhaba! Ben Defne, teknoloji ve yazılım geliştirme tutkusuyla dolu bir geli�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defnedmr&theme=dracula&layout=compact&hide_border=true&langs_count=8)
 
 </div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=defnedmr&theme=dracula&hide_border=true)
-
-</div>
-
 ---
 <div align="center">
 
