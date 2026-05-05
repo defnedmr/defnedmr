@@ -44,9 +44,6 @@ Hello, I'm Defne - Student in Akdeniz University.
 <div align="center">
   
 ![Defne's GitHub stats](https://github-readme-stats.vercel.app/api?username=defnedmr&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defnedmr&theme=dracula&layout=compact&hide_border=true&langs_count=8)
-
 </div>
 ---
 <div align="center">
