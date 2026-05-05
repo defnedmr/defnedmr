@@ -1,5 +1,5 @@
-## 🚀 Hakkımda
-Hello, I'm Defne
+## 🚀 About
+Hello, I'm Defne - Student in Akdeniz University.
 
 - 🔭 Currently working on: CloverNote (Released Soon!)
 - 🌱 Currently Learning: .Net
