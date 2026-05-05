@@ -1,15 +1,15 @@
 ## 🚀 Hakkımda
-Merhaba! Ben Defne, teknoloji ve yazılım geliştirme tutkusuyla dolu bir geliştiriciyim. Yeni insanlarla tanışmayı, farklı projeler üzerinde işbirliği yapmayı ve sürekli öğrenmeyi seven biriyim.
+Hello, I'm Defne
 
-- 🔭 Şu anda üzerinde çalıştığım projeler: CloverNote (yakında yayınlanacak!)
-- 🌱 Öğrenmekte olduğum teknolojiler: Flutter
+- 🔭 Currently working on: CloverNote (Released Soon!)
+- 🌱 Currently Learning: .Net
 <br clear="right"/>
 
 ---
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Tech Stack
 
-### 💻 Programlama Dilleri
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,13 +23,13 @@ Merhaba! Ben Defne, teknoloji ve yazılım geliştirme tutkusuyla dolu bir geli�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Backend & Veritabanları
+### 🔧 Backend & DBs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Araçlar & Platformlar
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -39,7 +39,7 @@ Merhaba! Ben Defne, teknoloji ve yazılım geliştirme tutkusuyla dolu bir geli�
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -51,12 +51,10 @@ Merhaba! Ben Defne, teknoloji ve yazılım geliştirme tutkusuyla dolu bir geli�
 ---
 <div align="center">
 
-### 📫 Benimle İletişime Geç
-
-Proje fikirlerin mi var? Birlikte çalışmak ister misin? Kahve içelim! ☕
+### 📫 Contact me!
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-⭐️ [defnedmr](https://github.com/defnedmr) tarafından ❤️ ile oluşturuldu
+⭐️ Made by [defnedmr](https://github.com/defnedmr) with ❤️.
 </div>
