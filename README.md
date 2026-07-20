@@ -2,13 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B005D,100:FF4FD8&height=220&section=header&text=Defne%20Demir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# 🖤 Hello, I'm Defne
-
-### Student at Akdeniz University
-### Building things with code, coffee and a little bit of chaos 🩷
-
-</div>
-
 ---
 
 ## 🦇 About Me
@@ -22,7 +15,6 @@ interests:
   - Web Development
   - Full Stack Development
   - UI/UX
-theme: Pink & Black Gothic
 ```
 
 ---
@@ -97,16 +89,6 @@ A minimal and aesthetic note-taking experience.
 <a href="https://github.com/defnedmr">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF4FD8"/>
 </a>
-
 <br><br>
-
-```txt
-dark mode always on ✦
-pink energy included 🩷
-```
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FD8,50:8B005D,100:000000&height=120&section=footer"/>
-
-⭐ Made with 🖤 by defnedmr
-
 </div>
