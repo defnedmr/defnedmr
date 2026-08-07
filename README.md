@@ -61,11 +61,6 @@ interests:
 
 ### Websites   -    Discord Bots    -    Customized Apps
 
-```txt
-Coming soon...
-A minimal and aesthetic note-taking experience.
-```
-
 </div>
 
 ---
