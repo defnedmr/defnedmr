@@ -69,10 +69,9 @@ interests:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=defnedmr&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF4FD8&icon_color=FF4FD8&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=defnedmr&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF4FD8&icon_color=FF4FD8&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defnedmr&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF4FD8&text_color=FFFFFF"/>
-
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=defnedmr&theme=radical&hide_border=true&background=000000&ring=FF4FD8&fire=FF4FD8&currStreakLabel=FF4FD8"/>
 </div>
 
 ---
