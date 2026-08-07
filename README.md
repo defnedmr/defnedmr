@@ -9,12 +9,8 @@
 ```yaml
 name: Defne Demir
 university: Akdeniz University
-currently_working_on: CloverNote (Released Soon!)
-currently_learning: .NET
-interests:
-  - Web Development
-  - Full Stack Development
-  - UI/UX
+currently_working_on: Customized Orders
+Contact for Commission Information
 ```
 
 ---
