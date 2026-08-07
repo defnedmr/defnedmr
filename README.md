@@ -55,11 +55,11 @@ interests:
 
 ---
 
-# 🌙 Current Project
+# 🌙 I take commissions
 
 <div align="center">
 
-### 📝 CloverNote
+### Websites   -    Discord Bots    -    Customized Apps
 
 ```txt
 Coming soon...
