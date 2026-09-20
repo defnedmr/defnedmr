@@ -58,14 +58,6 @@ Contact for Commission Information
 </div>
 
 ---
-
-<div align="center">
-
-## 🩷 Connect With Me
-
-<a href="https://github.com/defnedmr">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF4FD8"/>
-</a>
 <br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FD8,50:8B005D,100:000000&height=120&section=footer"/>
 </div>
